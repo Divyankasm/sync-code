@@ -43,7 +43,9 @@ A real-time collaborative code editor that allows multiple users to write, edit,
    ```bash
     npm start
    ```
-   
+
+---
+
 
 ## 📂 Project Structure
 
@@ -56,10 +58,18 @@ A real-time collaborative code editor that allows multiple users to write, edit,
 
 ```
 
+---
+
+
 ## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
+
+
+---
+
+
 
 ## 📜 License
 
