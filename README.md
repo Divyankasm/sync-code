@@ -1,4 +1,4 @@
-# Realtime Collaborative Code Editor
+# Sync-Code
 
 A real-time collaborative code editor that allows multiple users to write, edit, and view code simultaneously. Built with **React**, **Node.js**, **Express**, and **Socket.IO**.
 
@@ -27,21 +27,25 @@ A real-time collaborative code editor that allows multiple users to write, edit,
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/Realtime-Collaborative-Code-Editor.git
-   cd Realtime-Collaborative-Code-Editor
+   git clone https://github.com/Divyankasm/sync-code.git
+
+   cd sync-code
    ```
 
 2. **Install Dependencies**
 
    ```bash
- npm install
+    npm install
    ```
 
 3. **Run the Project**
 
+   ```bash
+    npm start
+   ```
    
 
-## 🚀 Folder Structure
+## 📂 Project Structure
 
 ```
 
@@ -49,3 +53,14 @@ A real-time collaborative code editor that allows multiple users to write, edit,
 ├── server/          # Node.js backend
 ├── package.json     # Dependencies
 └── README.md        # Project documentation
+
+```
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License.
