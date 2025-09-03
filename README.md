@@ -18,7 +18,7 @@ A real-time collaborative code editor that allows multiple users to write, edit,
 
 - **Frontend:** React, Monaco Editor  
 - **Backend:** Node.js, Express  
-- **Real-time Communication:** Socket.IO  
+- **Real-time Communication:** Socket.io
 
 ---
 
