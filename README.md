@@ -9,7 +9,7 @@ A real-time collaborative code editor that allows multiple users to write, edit,
 - 👥 Real-time collaboration with multiple users
 - ⌨️ Code editor powered by **Monaco Editor** (used in VS Code)
 - 🔄 Automatic updates across connected clients
-- 📡 Socket.IO integration for smooth communication
+- 📡 Socket.io integration for smooth communication
 - 🌐 Simple and responsive UI
 
 ---
